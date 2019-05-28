@@ -1,0 +1,11 @@
+C:\Users\Cliff\backend\english-idioms\bin\Debug\netcoreapp2.2\english-idioms.deps.json
+C:\Users\Cliff\backend\english-idioms\bin\Debug\netcoreapp2.2\english-idioms.runtimeconfig.json
+C:\Users\Cliff\backend\english-idioms\bin\Debug\netcoreapp2.2\english-idioms.runtimeconfig.dev.json
+C:\Users\Cliff\backend\english-idioms\bin\Debug\netcoreapp2.2\english-idioms.dll
+C:\Users\Cliff\backend\english-idioms\bin\Debug\netcoreapp2.2\english-idioms.pdb
+C:\Users\Cliff\backend\english-idioms\obj\Debug\netcoreapp2.2\english-idioms.csprojAssemblyReference.cache
+C:\Users\Cliff\backend\english-idioms\obj\Debug\netcoreapp2.2\english-idioms.csproj.CoreCompileInputs.cache
+C:\Users\Cliff\backend\english-idioms\obj\Debug\netcoreapp2.2\english-idioms.AssemblyInfoInputs.cache
+C:\Users\Cliff\backend\english-idioms\obj\Debug\netcoreapp2.2\english-idioms.AssemblyInfo.cs
+C:\Users\Cliff\backend\english-idioms\obj\Debug\netcoreapp2.2\english-idioms.dll
+C:\Users\Cliff\backend\english-idioms\obj\Debug\netcoreapp2.2\english-idioms.pdb
